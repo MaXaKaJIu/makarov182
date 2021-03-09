@@ -1,0 +1,30 @@
+	.footer1 {
+    background-color: #333; /* Цвет фона слоя */
+    padding: 10px; /* Поля вокруг текста */
+    padding-top: 30px;
+    margin: -10px;
+    float: left; /* Обтекание по правому краю */
+    width: 50%; /* Ширина слоя */
+    height: 150px
+   }
+
+   .footer2 {
+    background-color: #333; /* Цвет фона слоя */
+    padding: 0px; /* Поля вокруг текста */
+    padding-top: 30px;
+    margin: -10px;
+    float: right; /* Обтекание по правому краю */
+    width: 50%; /* Ширина слоя */
+    height: 160px
+   }		
+
+
+  	position: relative; /* Фиксированное положение */
+    left: 0; bottom: 0; /* Левый нижний угол */
+    padding: 0px; /* Поля вокруг текста */
+    margin-left: 0px;
+    margin-bottom: 0px;
+    background: #333; /* Цвет фона */
+    color: #ccc; /* Цвет текста */
+    width: 50%; /* Ширина слоя */
+    float: right; 

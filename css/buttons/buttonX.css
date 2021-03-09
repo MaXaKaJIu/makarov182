@@ -1,0 +1,16 @@
+
+.button7 {
+font-weight: 700;
+color: white;
+text-decoration: none;
+padding: .8em 1em calc(.8em + 3px);
+border-radius: 3px;
+background: rgb(191, 0, 0);
+box-shadow: 0 -3px rgb(135, 18, 18) inset;
+transition: 0.2s;
+} 
+.button7:hover { background: rgb(255, 0, 0); }
+.button7:active {
+background: rgb(255, 33, 33);
+box-shadow: 0 3px rgb(224,0,0) inset;
+}

@@ -1,0 +1,16 @@
+
+		.mercedes {
+			background: #000000; /*url(img/mercedes.jpg) right bottom no-repeat*/  /* Цвет фона */
+    		color: #cccccc; /* Цвет текста */
+    		padding: 10px;
+    		margin: -10px;
+
+		}
+
+		.phon {
+			position: relative;
+			background: #ffffff;
+			padding: 10px;
+			margin: -10px;
+			;
+		}

@@ -1,0 +1,32 @@
+.countdown-title {
+  color: ;
+}
+
+.countdown {
+  color: #fff;
+  display: inline-block;
+  font-weight: 100;
+  text-align: center;
+  font-size: 30px;
+}
+
+.countdown-number {
+  padding: 10px;
+  border-radius: 3px;
+  background: #141414;
+  display: inline-block;
+}
+
+.countdown-time {
+  font-family: sans-serif;
+  padding: 15px;
+  border-radius: 3px;
+  background: #333;
+  display: inline-block;
+}
+
+.countdown-text {
+  display: block;
+  padding-top: 10px;
+  font-size: 20px;
+}
